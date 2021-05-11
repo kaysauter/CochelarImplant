@@ -4,7 +4,7 @@ What is a cochlear implant?
 It is an implant that can profoundly deaf people a hearing of some sort back. For more details, please refer to the following videos:
 
 ## English
-* [How Cochlear Implants Work](https://www.youtube.com/watch?v=Vm0nZH9RahE)
+* [How Cochlear Implants work](https://www.youtube.com/watch?v=Vm0nZH9RahE)
 * [An excellent explanation of how normmal functioning ears work](https://www.youtube.com/watch?v=eQEaiZ2j9oc)
 
 ## German
