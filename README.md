@@ -5,7 +5,7 @@ It is an implant that can profoundly deaf people a hearing of some sort back. Fo
 
 ## English
 * [How Cochlear Implants work](https://www.youtube.com/watch?v=Vm0nZH9RahE)
-* [An excellent explanation of how normmal functioning ears work](https://www.youtube.com/watch?v=eQEaiZ2j9oc)
+* [An excellent explanation of how normal functioning ears work](https://www.youtube.com/watch?v=eQEaiZ2j9oc)
 
 ## German
 * [Wie funktioniert ein Cochlea Implantat - Ein Flug durch das Ohr](https://www.youtube.com/watch?v=SWH-qj0TykE&list=PLaWqDORBWYr9mb9ZEtz3u_ykfddeIu14A&index=2&t=0s)
