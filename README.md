@@ -14,3 +14,6 @@ It is an surgical inserted implant into the ear that can bring profoundly hearin
 
 ## Closed Captions
 Please, if you're using a conferencing or video-chat-tool like MS Teams, enable live captioning. It does help poeople with hearing imparements to understand people. If you're publishing a video on YouTube, please also activate closed captioning here. 
+
+## PowerPoint
+If you're using PowerPoint and your conferencing software does not suppport live captioning like MS Teams for example does, switch on live captioning within PowerPoint. 
