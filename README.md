@@ -1,7 +1,7 @@
 # Cochlear implant
 What is a cochlear implant?
 
-It is an implant that can bring profoundly hearing impaired people a hearing of some sort back. For more details, please refer to the following videos:
+It is an surgical inserted implant into the ear that can bring profoundly hearing impaired people a hearing of some sort back. For more details, please refer to the following videos:
 
 ## English
 * [How Cochlear Implants work](https://www.youtube.com/watch?v=Vm0nZH9RahE)
